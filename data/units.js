@@ -16,7 +16,8 @@
     U14: "data/u14.js?v=1",
     U15: "data/u15.js?v=1",
     U16: "data/u16.js?v=1",
-    U17: "data/u17.js?v=1"
+    U17: "data/u17.js?v=1",
+    U18: "data/u18.js?v=1"
   });
   const manifestSource = "data/unit-manifest.js?v=4";
   const defaultUnitId = "U01";
