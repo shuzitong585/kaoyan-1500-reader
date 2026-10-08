@@ -1,0 +1,54 @@
+{
+  "sourcePath": "D:\\Users\\Downloads\\2005-2025_1500核心词候选池_V1.xlsx",
+  "outputPath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-08-30\\web-app-1500-u01-web-app\\outputs\\01a05141-9d1c-7c13-a269-25bb103a09ad\\2005–2025｜84篇阅读正式词频母表 V1.1锁定版.xlsx",
+  "outputBytes": 791698,
+  "sourceValidation": {
+    "phase": "source",
+    "sheetCount": 8,
+    "sheetNames": [
+      "总览",
+      "84篇对账",
+      "正式词频母表",
+      "A-B候选池",
+      "规则与说明",
+      "1500核心词候选池",
+      "原500复现层",
+      "1500候选池说明"
+    ],
+    "articleCount": 84,
+    "yearRange": "2005–2025",
+    "patchedArticleTokens": 443,
+    "overviewTokens": 35818,
+    "frequencyLemmaCount": 5476,
+    "frequencySum": 35818,
+    "formulaCount": 0,
+    "spreadsheetErrorCount": 0,
+    "warnings": []
+  },
+  "finalValidation": {
+    "phase": "final",
+    "sheetCount": 8,
+    "sheetNames": [
+      "总览",
+      "84篇对账",
+      "正式词频母表",
+      "A-B候选池",
+      "规则与说明",
+      "1500核心词候选池",
+      "原500复现层",
+      "1500候选池说明"
+    ],
+    "articleCount": 84,
+    "yearRange": "2005–2025",
+    "patchedArticleTokens": 443,
+    "overviewTokens": 35818,
+    "frequencyLemmaCount": 5476,
+    "frequencySum": 35818,
+    "formulaCount": 0,
+    "spreadsheetErrorCount": 0,
+    "warnings": []
+  },
+  "sourcePreviews": [],
+  "finalPreviews": [],
+  "warnings": []
+}
