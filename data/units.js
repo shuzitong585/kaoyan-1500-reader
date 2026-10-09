@@ -44,7 +44,8 @@
     U42: "data/u42.js?v=1",
     U43: "data/u43.js?v=1",
     U44: "data/u44.js?v=1",
-    U45: "data/u45.js?v=1"
+    U45: "data/u45.js?v=1",
+    U46: "data/u46.js?v=1"
   });
   const manifestSource = "data/unit-manifest.js?v=4";
   const defaultUnitId = "U01";
