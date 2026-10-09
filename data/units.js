@@ -58,7 +58,8 @@
     U56: "data/u56.js?v=1",
     U57: "data/u57.js?v=1",
     U58: "data/u58.js?v=1",
-    U59: "data/u59.js?v=1"
+    U59: "data/u59.js?v=1",
+    U60: "data/u60.js?v=1"
   });
   const manifestSource = "data/unit-manifest.js?v=4";
   const defaultUnitId = "U01";
