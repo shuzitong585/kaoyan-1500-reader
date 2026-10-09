@@ -35,7 +35,8 @@
     U33: "data/u33.js?v=1",
     U34: "data/u34.js?v=1",
     U35: "data/u35.js?v=1",
-    U36: "data/u36.js?v=1"
+    U36: "data/u36.js?v=1",
+    U37: "data/u37.js?v=1"
   });
   const manifestSource = "data/unit-manifest.js?v=4";
   const defaultUnitId = "U01";
