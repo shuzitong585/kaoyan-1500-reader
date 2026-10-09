@@ -25,7 +25,8 @@
     U23: "data/u23.js?v=1",
     U24: "data/u24.js?v=1",
     U25: "data/u25.js?v=1",
-    U26: "data/u26.js?v=1"
+    U26: "data/u26.js?v=1",
+    U27: "data/u27.js?v=1"
   });
   const manifestSource = "data/unit-manifest.js?v=4";
   const defaultUnitId = "U01";
