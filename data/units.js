@@ -41,7 +41,8 @@
     U39: "data/u39.js?v=1",
     U40: "data/u40.js?v=1",
     U41: "data/u41.js?v=1",
-    U42: "data/u42.js?v=1"
+    U42: "data/u42.js?v=1",
+    U43: "data/u43.js?v=1"
   });
   const manifestSource = "data/unit-manifest.js?v=4";
   const defaultUnitId = "U01";
