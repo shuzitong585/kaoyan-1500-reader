@@ -29,7 +29,8 @@
     U27: "data/u27.js?v=1",
     U28: "data/u28.js?v=1",
     U29: "data/u29.js?v=1",
-    U30: "data/u30.js?v=1"
+    U30: "data/u30.js?v=1",
+    U31: "data/u31.js?v=1"
   });
   const manifestSource = "data/unit-manifest.js?v=4";
   const defaultUnitId = "U01";
